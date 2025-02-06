@@ -1,0 +1,1 @@
+*  Utilizei técnicas de engenharia de dados que proporcionaram conhecimentos para fundir dados de duas empresas que vendem produtos de varejo. Com isso, é o suficiente para atender a necessidade de a empresa entender qual é o impacto da fusão nas vendas, uma vez que , fui capaz de transformar os dados e juntar toda informação em um arquivo só.
